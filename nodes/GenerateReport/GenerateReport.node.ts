@@ -37,8 +37,8 @@ encodeDecodeOptions.sort((a, b) => {
 
 export class GenerateReport implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'Generate Report',
-		name: 'generateReport',
+		displayName: 'Generate Report Modded',
+		name: 'generateReportModded',
 		icon: 'file:report_template.svg',
 		group: ['transform'],
 		version: 1,
