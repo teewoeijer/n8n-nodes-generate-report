@@ -149,8 +149,8 @@ export class GenerateReport implements INodeType {
 
 			const handler = new TemplateHandler({
 				delimiters: {
-						tagStart: "{{",
-						tagEnd: "}}",
+						tagStart: "«",
+						tagEnd: "»",
 						containerTagOpen: "#",
 						containerTagClose: "/"
 				},
