@@ -10,7 +10,7 @@ This is an n8n community node. It lets you fill a docx file with data using plac
 
 For this node this package was used: https://www.npmjs.com/package/easy-template-x
 For more info on it's use please have a look overthere.
-The start and end tag for normal data are {{ }} instead of the standard { }
+The Modded version's start and end tag for normal data are « » instead of the standard {{ }}
 The tags for lists/containers are the same as default.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
