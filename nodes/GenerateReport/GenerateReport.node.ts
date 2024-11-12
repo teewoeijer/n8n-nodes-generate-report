@@ -154,6 +154,7 @@ export class GenerateReport implements INodeType {
 						containerTagOpen: "#",
 						containerTagClose: "/"
 				},
+				maxXmlDepth: 100,
 			});
 
 			try{
